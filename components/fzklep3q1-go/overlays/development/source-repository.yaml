@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fzklep3q1-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/fzklep3q1-go
